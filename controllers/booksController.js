@@ -35,4 +35,4 @@ module.exports={getBooks, deleteBook}
 
 
 
-module.exports={getBooks}
+module.exports={getBooks, deleteBook}
